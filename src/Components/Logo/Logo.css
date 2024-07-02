@@ -1,0 +1,12 @@
+.logo{
+    padding:20px;
+    background-color: azure;
+    margin-left:12px ;
+    width:fit-content;
+    border-radius: 10px;
+}
+
+img{
+    width:75px;
+    height: 75px;
+}
